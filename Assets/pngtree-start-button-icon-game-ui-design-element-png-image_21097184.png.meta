@@ -1,0 +1,3718 @@
+fileFormatVersion: 2
+guid: 58f05a1984edfb845ae6ca678ae998e8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4939489473684998574
+    second: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_0
+  - first:
+      213: 6616308893655379215
+    second: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_1
+  - first:
+      213: -270234260382105521
+    second: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_2
+  - first:
+      213: 613127001084982875
+    second: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_3
+  - first:
+      213: -2248716540915198025
+    second: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_4
+  - first:
+      213: 6870049108618478677
+    second: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_5
+  - first:
+      213: -2868348279777173490
+    second: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_6
+  - first:
+      213: -7735334578111412863
+    second: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_7
+  - first:
+      213: 4071413263825749056
+    second: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_8
+  - first:
+      213: -6252648544386261338
+    second: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_9
+  - first:
+      213: -7521065451365217166
+    second: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_10
+  - first:
+      213: -7225064454419044963
+    second: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_11
+  - first:
+      213: -6106328941496832685
+    second: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_12
+  - first:
+      213: -3122167677585086066
+    second: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_13
+  - first:
+      213: 2132858567358932119
+    second: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_14
+  - first:
+      213: -7246879578517858971
+    second: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_15
+  - first:
+      213: -1850695861760279765
+    second: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_16
+  - first:
+      213: 2242361536739345091
+    second: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_17
+  - first:
+      213: -3642204237369507074
+    second: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_18
+  - first:
+      213: -5030087184270000048
+    second: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_19
+  - first:
+      213: 95542704692031659
+    second: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_20
+  - first:
+      213: -6707809298511903113
+    second: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_21
+  - first:
+      213: 5995349018476042026
+    second: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_22
+  - first:
+      213: 7803973876515248559
+    second: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_23
+  - first:
+      213: -4951155261675788958
+    second: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_24
+  - first:
+      213: 8961719364820058299
+    second: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_25
+  - first:
+      213: -4947160968059327292
+    second: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_26
+  - first:
+      213: -3827346386848570140
+    second: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_27
+  - first:
+      213: -302452719335579928
+    second: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_28
+  - first:
+      213: -5340185062317068493
+    second: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_29
+  - first:
+      213: 2708566681494947369
+    second: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_30
+  - first:
+      213: -739700896321306243
+    second: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_31
+  - first:
+      213: -1164919996317722116
+    second: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_32
+  - first:
+      213: -7976644226310610302
+    second: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_33
+  - first:
+      213: 3745508777871852517
+    second: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_34
+  - first:
+      213: 1340380165535570799
+    second: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_35
+  - first:
+      213: -3010275351571273133
+    second: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_36
+  - first:
+      213: -4030056259731636010
+    second: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_37
+  - first:
+      213: -5339666780511323360
+    second: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_38
+  - first:
+      213: -5461771525635107323
+    second: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_39
+  - first:
+      213: 5162447246597568139
+    second: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_40
+  - first:
+      213: -2800878738437750294
+    second: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_41
+  - first:
+      213: -3839367264125849374
+    second: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_42
+  - first:
+      213: -4038084670689720176
+    second: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_43
+  - first:
+      213: -7589591368918718828
+    second: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_44
+  - first:
+      213: -9143366270621619793
+    second: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_45
+  - first:
+      213: 5854235750963304180
+    second: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_46
+  - first:
+      213: -812471867199339377
+    second: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_47
+  - first:
+      213: -1233776972029115284
+    second: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_48
+  - first:
+      213: 4919340926601961302
+    second: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_49
+  - first:
+      213: 8974981386041437363
+    second: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_50
+  - first:
+      213: 2039135495624338870
+    second: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_51
+  - first:
+      213: 5056839850867149712
+    second: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_52
+  - first:
+      213: 9002248295031840878
+    second: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_53
+  - first:
+      213: -1662459892971386516
+    second: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_54
+  - first:
+      213: 4012421681930115936
+    second: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_55
+  - first:
+      213: 4768472695013166724
+    second: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_56
+  - first:
+      213: 1410359873254441566
+    second: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_57
+  - first:
+      213: -39548820854877778
+    second: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_58
+  - first:
+      213: -8249555950137906650
+    second: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_59
+  - first:
+      213: 9204565717832870030
+    second: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_60
+  - first:
+      213: 8587634310895524697
+    second: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_61
+  - first:
+      213: 5778849126992649692
+    second: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_62
+  - first:
+      213: 4017866991191481105
+    second: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_63
+  - first:
+      213: 152056287518614817
+    second: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_64
+  - first:
+      213: 5711258684439588900
+    second: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_65
+  - first:
+      213: -7383558345559603474
+    second: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_66
+  - first:
+      213: -5655794632497254240
+    second: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_67
+  - first:
+      213: 4099155890563213940
+    second: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_68
+  - first:
+      213: -7822647531801136811
+    second: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_69
+  - first:
+      213: 3419904398284944926
+    second: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_70
+  - first:
+      213: 1083252393092965243
+    second: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_71
+  - first:
+      213: 927020062089580136
+    second: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_72
+  - first:
+      213: -7458144411264706227
+    second: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_73
+  - first:
+      213: -6925590282176771826
+    second: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_74
+  - first:
+      213: 7427874704454024782
+    second: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_75
+  - first:
+      213: -199029064274762584
+    second: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_76
+  - first:
+      213: 4975079512497925609
+    second: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_77
+  - first:
+      213: 5911592672453088129
+    second: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_78
+  - first:
+      213: -7230110532740982061
+    second: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_79
+  - first:
+      213: 2994749135829881340
+    second: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_80
+  - first:
+      213: 4507154817778657030
+    second: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_81
+  - first:
+      213: -5709275694730555529
+    second: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_82
+  - first:
+      213: -8469045956217020789
+    second: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_83
+  - first:
+      213: -6789215328600312561
+    second: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_84
+  - first:
+      213: 5064352881186066700
+    second: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_85
+  - first:
+      213: -8227385735886551815
+    second: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_86
+  - first:
+      213: -314661278208722851
+    second: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_87
+  - first:
+      213: 5933287823350857753
+    second: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_88
+  - first:
+      213: -8522150028046939570
+    second: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_89
+  - first:
+      213: 7507918502947369585
+    second: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_90
+  - first:
+      213: -7874552813793670329
+    second: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_91
+  - first:
+      213: 1997835529701353920
+    second: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_92
+  - first:
+      213: -2461469705571246032
+    second: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_93
+  - first:
+      213: -2000587603331610723
+    second: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_94
+  - first:
+      213: -4869955586207520919
+    second: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_95
+  - first:
+      213: -5869309589636998813
+    second: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_96
+  - first:
+      213: -7445036605755363896
+    second: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_97
+  - first:
+      213: -2513768894819363538
+    second: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_98
+  - first:
+      213: -617346978470698436
+    second: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_99
+  - first:
+      213: -98020058226271488
+    second: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_100
+  - first:
+      213: 2282225601953227867
+    second: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_101
+  - first:
+      213: 1788192436231402454
+    second: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_102
+  - first:
+      213: -5995854726909421224
+    second: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_103
+  - first:
+      213: 3893822431215033928
+    second: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_104
+  - first:
+      213: 4629510422320560805
+    second: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_105
+  - first:
+      213: -2939875776574889677
+    second: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_106
+  - first:
+      213: -7103508330080867222
+    second: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_107
+  - first:
+      213: 6843670866520221625
+    second: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_108
+  - first:
+      213: 6001221333465273949
+    second: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_109
+  - first:
+      213: -8852385830678668087
+    second: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_110
+  - first:
+      213: -5752069037046843165
+    second: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_111
+  - first:
+      213: 1669580438166086789
+    second: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_112
+  - first:
+      213: 1444443117336869023
+    second: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_113
+  - first:
+      213: 978418835868850959
+    second: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_114
+  - first:
+      213: 3779390578777616583
+    second: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_115
+  - first:
+      213: -1483906772532202238
+    second: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_116
+  - first:
+      213: 2782320677965125314
+    second: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_117
+  - first:
+      213: 1590243081461410814
+    second: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_118
+  - first:
+      213: 4916212062492675217
+    second: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_119
+  - first:
+      213: -5782436081150330155
+    second: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_120
+  - first:
+      213: 7506632188186600304
+    second: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_121
+  - first:
+      213: -4301959034100690571
+    second: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_122
+  - first:
+      213: -2495434326641252134
+    second: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_123
+  - first:
+      213: 7834001975908438164
+    second: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_124
+  - first:
+      213: 683995410375702318
+    second: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_125
+  - first:
+      213: -5134381243740957195
+    second: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_126
+  - first:
+      213: 5221377211576358470
+    second: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_127
+  - first:
+      213: -2693460721348773451
+    second: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_128
+  - first:
+      213: -159068173992375514
+    second: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_129
+  - first:
+      213: 5335603863453820282
+    second: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_130
+  - first:
+      213: -4822412441716302727
+    second: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_131
+  - first:
+      213: 4376458547822519669
+    second: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_132
+  - first:
+      213: -7997725958497121527
+    second: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_133
+  - first:
+      213: 1440037917438731980
+    second: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_134
+  - first:
+      213: 6337519772114852151
+    second: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_135
+  - first:
+      213: -7248744590698719061
+    second: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_136
+  - first:
+      213: 1428137609631509778
+    second: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_137
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 2246
+        width: 248
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25679358e78637bb0800000000000000
+      internalID: -4939489473684998574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_1
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 2365
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0d269252e9d1db50800000000000000
+      internalID: 6616308893655379215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_2
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 2390
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f40c8c73f5fef3cf0800000000000000
+      internalID: -270234260382105521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_3
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 2246
+        width: 248
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b56fedd42c3428800800000000000000
+      internalID: 613127001084982875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_4
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 2365
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b754326834fac0e0800000000000000
+      internalID: -2248716540915198025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_5
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 2390
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55481b4e341575f50800000000000000
+      internalID: 6870049108618478677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_6
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 2246
+        width: 248
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0067cbcf649138d0800000000000000
+      internalID: -2868348279777173490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_7
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 2365
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1858fdc4f2296a490800000000000000
+      internalID: -7735334578111412863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_8
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 2390
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 044c52ccac0908830800000000000000
+      internalID: 4071413263825749056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_9
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 2246
+        width: 248
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ae5e7ed6412a39a0800000000000000
+      internalID: -6252648544386261338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_10
+      rect:
+        serializedVersion: 2
+        x: 2263
+        y: 2365
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27cc9eef1decf9790800000000000000
+      internalID: -7521065451365217166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_11
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 2390
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d952d03a82a6bbb90800000000000000
+      internalID: -7225064454419044963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_12
+      rect:
+        serializedVersion: 2
+        x: 2410
+        y: 2397
+        width: 90
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35de4603e26f14ba0800000000000000
+      internalID: -6106328941496832685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_13
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 2308
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e89a5580a05dba4d0800000000000000
+      internalID: -3122167677585086066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_14
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 2345
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 794e39f019f699d10800000000000000
+      internalID: 2132858567358932119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_15
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 2308
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56519604b69ed6b90800000000000000
+      internalID: -7246879578517858971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_16
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 2345
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2b3e7c4be10156e0800000000000000
+      internalID: -1850695861760279765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_17
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 2308
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c20957efe77e1f10800000000000000
+      internalID: 2242361536739345091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_18
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 2345
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef20b281b8a447dc0800000000000000
+      internalID: -3642204237369507074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_19
+      rect:
+        serializedVersion: 2
+        x: 2206
+        y: 2308
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05087504b5a813ab0800000000000000
+      internalID: -5030087184270000048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_20
+      rect:
+        serializedVersion: 2
+        x: 2249
+        y: 2345
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba07c0e659f635100800000000000000
+      internalID: 95542704692031659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_21
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 2247
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 776c2258bf219e2a0800000000000000
+      internalID: -6707809298511903113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_22
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 2278
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2750c6ea22c33350800000000000000
+      internalID: 5995349018476042026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_23
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 2247
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa99e1ab4e84d4c60800000000000000
+      internalID: 7803973876515248559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_24
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 2278
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26522089586f94bb0800000000000000
+      internalID: -4951155261675788958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_25
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 2247
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb0c6d4f74c6e5c70800000000000000
+      internalID: 8961719364820058299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_26
+      rect:
+        serializedVersion: 2
+        x: 1581
+        y: 2278
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cc652c8f47285bb0800000000000000
+      internalID: -4947160968059327292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_27
+      rect:
+        serializedVersion: 2
+        x: 2151
+        y: 2247
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e424834db882eac0800000000000000
+      internalID: -3827346386848570140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_28
+      rect:
+        serializedVersion: 2
+        x: 2182
+        y: 2278
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eed6aeaad87dcbf0800000000000000
+      internalID: -302452719335579928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_29
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 2162
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33f6eb5baf9d3e5b0800000000000000
+      internalID: -5340185062317068493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_30
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1914
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92607f4db03c69520800000000000000
+      internalID: 2708566681494947369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_31
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 2162
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d710bb234fd0cb5f0800000000000000
+      internalID: -739700896321306243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_32
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 1914
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf99bb37f6f55dfe0800000000000000
+      internalID: -1164919996317722116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_33
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 2162
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 282e51796544d4190800000000000000
+      internalID: -7976644226310610302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_34
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 1914
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e3c8209368baf330800000000000000
+      internalID: 3745508777871852517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_35
+      rect:
+        serializedVersion: 2
+        x: 2065
+        y: 2162
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6b1abea8acf99210800000000000000
+      internalID: 1340380165535570799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_36
+      rect:
+        serializedVersion: 2
+        x: 2135
+        y: 1914
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35aea71548a5936d0800000000000000
+      internalID: -3010275351571273133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_37
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 2086
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d04bd51f2d5218c0800000000000000
+      internalID: -4030056259731636010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_38
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 2111
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02b3ba89a51b5e5b0800000000000000
+      internalID: -5339666780511323360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_39
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 2086
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5061d223cb3e334b0800000000000000
+      internalID: -5461771525635107323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_40
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 2111
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8634214b62b4a740800000000000000
+      internalID: 5162447246597568139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_41
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 2086
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae1497880a74129d0800000000000000
+      internalID: -2800878738437750294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_42
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 2111
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e0f38ba0d3d7bac0800000000000000
+      internalID: -3839367264125849374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_43
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 2086
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 098c69ef267d5f7c0800000000000000
+      internalID: -4038084670689720176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_44
+      rect:
+        serializedVersion: 2
+        x: 2008
+        y: 2111
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 496aa318cda5ca690800000000000000
+      internalID: -7589591368918718828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_45
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 2028
+        width: 53
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa96f4c02dc3c1180800000000000000
+      internalID: -9143366270621619793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_46
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 2066
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f65f8ff56c6e3150800000000000000
+      internalID: 5854235750963304180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_47
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 2028
+        width: 53
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f84c595342589b4f0800000000000000
+      internalID: -812471867199339377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_48
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 2066
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c64c52a716eb0eee0800000000000000
+      internalID: -1233776972029115284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_49
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 2028
+        width: 53
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65f962b4282054440800000000000000
+      internalID: 4919340926601961302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_50
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 2066
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bc2eb4e40a8d8c70800000000000000
+      internalID: 8974981386041437363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_51
+      rect:
+        serializedVersion: 2
+        x: 1927
+        y: 2028
+        width: 53
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bd2491fde67c4c10800000000000000
+      internalID: 2039135495624338870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_52
+      rect:
+        serializedVersion: 2
+        x: 1970
+        y: 2066
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09bc9f45d018d2640800000000000000
+      internalID: 5056839850867149712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_53
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1968
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e602d3dd0296eec70800000000000000
+      internalID: 9002248295031840878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_54
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1998
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c694b121981cde8e0800000000000000
+      internalID: -1662459892971386516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_55
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 1968
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06b1580d24cfea730800000000000000
+      internalID: 4012421681930115936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_56
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1998
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48ec863d6a40d2240800000000000000
+      internalID: 4768472695013166724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_57
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 1968
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e52cbc215da929310800000000000000
+      internalID: 1410359873254441566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_58
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 1998
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea1d8a59e8e737ff0800000000000000
+      internalID: -39548820854877778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_59
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 1968
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62ae1554290b38d80800000000000000
+      internalID: -8249555950137906650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_60
+      rect:
+        serializedVersion: 2
+        x: 1902
+        y: 1998
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e88aa23a0cf2dbf70800000000000000
+      internalID: 9204565717832870030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_61
+      rect:
+        serializedVersion: 2
+        x: 2473
+        y: 1969
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95b52e118e76d2770800000000000000
+      internalID: 8587634310895524697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_62
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 712
+        width: 2391
+        height: 1180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdd19f0d9a8923050800000000000000
+      internalID: 5778849126992649692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_63
+      rect:
+        serializedVersion: 2
+        x: 2410
+        y: 1796
+        width: 90
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11b5cbcadb452c730800000000000000
+      internalID: 4017866991191481105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_64
+      rect:
+        serializedVersion: 2
+        x: 2473
+        y: 1368
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 125696b43663c1200800000000000000
+      internalID: 152056287518614817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_65
+      rect:
+        serializedVersion: 2
+        x: 2410
+        y: 1195
+        width: 90
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 420f2629387724f40800000000000000
+      internalID: 5711258684439588900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_66
+      rect:
+        serializedVersion: 2
+        x: 2473
+        y: 767
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee68c82fdc4588990800000000000000
+      internalID: -7383558345559603474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_67
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 443
+        width: 248
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a0b0775fb49281b0800000000000000
+      internalID: -5655794632497254240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_68
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 562
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47a68ff609023e830800000000000000
+      internalID: 4099155890563213940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_69
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 587
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55138e7148f507390800000000000000
+      internalID: -7822647531801136811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_70
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 443
+        width: 248
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e16f1994ee0f57f20800000000000000
+      internalID: 3419904398284944926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_71
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 562
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b73e56cef4c780f00800000000000000
+      internalID: 1083252393092965243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_72
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 587
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86e828cb5df6ddc00800000000000000
+      internalID: 927020062089580136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_73
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 443
+        width: 248
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4990034c295f7890800000000000000
+      internalID: -7458144411264706227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_74
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 562
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e09c4fae45c53ef90800000000000000
+      internalID: -6925590282176771826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_75
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 587
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4e771b60bc151760800000000000000
+      internalID: 7427874704454024782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_76
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 443
+        width: 248
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a4acebde18ec3df0800000000000000
+      internalID: -199029064274762584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_77
+      rect:
+        serializedVersion: 2
+        x: 2263
+        y: 562
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ed23cf15780b0540800000000000000
+      internalID: 4975079512497925609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_78
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 587
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1835e52f6323a0250800000000000000
+      internalID: 5911592672453088129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_79
+      rect:
+        serializedVersion: 2
+        x: 2410
+        y: 594
+        width: 90
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dad929f6cc79ab90800000000000000
+      internalID: -7230110532740982061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_80
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 505
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf15c80e87c7f8920800000000000000
+      internalID: 2994749135829881340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_81
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 542
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60723654d61ac8e30800000000000000
+      internalID: 4507154817778657030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_82
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 505
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77f40d2310494c0b0800000000000000
+      internalID: -5709275694730555529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_83
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 542
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8ed931e297e77a80800000000000000
+      internalID: -8469045956217020789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_84
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 505
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f05342321acd7c1a0800000000000000
+      internalID: -6789215328600312561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_85
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 542
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0152540d12384640800000000000000
+      internalID: 5064352881186066700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_86
+      rect:
+        serializedVersion: 2
+        x: 2206
+        y: 505
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f4cd56834472dd80800000000000000
+      internalID: -8227385735886551815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_87
+      rect:
+        serializedVersion: 2
+        x: 2249
+        y: 542
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d587ccf0c3912abf0800000000000000
+      internalID: -314661278208722851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_88
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 444
+        width: 43
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9108af4e6d5475250800000000000000
+      internalID: 5933287823350857753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_89
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 475
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4a4da7a3bd3bb980800000000000000
+      internalID: -8522150028046939570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_90
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 444
+        width: 43
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 172b2ca891c713860800000000000000
+      internalID: 7507918502947369585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_91
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 475
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74b86c0efe7f7b290800000000000000
+      internalID: -7874552813793670329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_92
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 444
+        width: 43
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c9e08b44dcb9bb10800000000000000
+      internalID: 1997835529701353920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_93
+      rect:
+        serializedVersion: 2
+        x: 1581
+        y: 475
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0306a0e185a17ddd0800000000000000
+      internalID: -2461469705571246032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_94
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 444
+        width: 43
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d978e51ac2c7c34e0800000000000000
+      internalID: -2000587603331610723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_95
+      rect:
+        serializedVersion: 2
+        x: 2182
+        y: 475
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 967eb2c42317a6cb0800000000000000
+      internalID: -4869955586207520919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_96
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 359
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36994e076060c8ea0800000000000000
+      internalID: -5869309589636998813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_97
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 111
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cdeb2e07aaeda890800000000000000
+      internalID: -7445036605755363896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_98
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 359
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e259dd8328c4d1dd0800000000000000
+      internalID: -2513768894819363538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_99
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 111
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c32e715a13ebe67f0800000000000000
+      internalID: -617346978470698436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_100
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 359
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00b5f80c643c3aef0800000000000000
+      internalID: -98020058226271488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_101
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 111
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5469bdd7181caf10800000000000000
+      internalID: 2282225601953227867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_102
+      rect:
+        serializedVersion: 2
+        x: 2066
+        y: 359
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d3fc97eb8fe0d810800000000000000
+      internalID: 1788192436231402454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_103
+      rect:
+        serializedVersion: 2
+        x: 2135
+        y: 111
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85997bda4e17acca0800000000000000
+      internalID: -5995854726909421224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_104
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 283
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84e150feed2a90630800000000000000
+      internalID: 3893822431215033928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_105
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 308
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aab26e63335f3040800000000000000
+      internalID: 4629510422320560805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_106
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 283
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3316a7dae867337d0800000000000000
+      internalID: -2939875776574889677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_107
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 308
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6c608e4fc44b6d90800000000000000
+      internalID: -7103508330080867222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_108
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 283
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b7a0aec46a99fe50800000000000000
+      internalID: 6843670866520221625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_109
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 308
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5691b7c10f984350800000000000000
+      internalID: 6001221333465273949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_110
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 283
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cc52bb2df1062580800000000000000
+      internalID: -8852385830678668087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_111
+      rect:
+        serializedVersion: 2
+        x: 2008
+        y: 308
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e8bc43cfab8c20b0800000000000000
+      internalID: -5752069037046843165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_112
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 225
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 584a4dc009a8b2710800000000000000
+      internalID: 1669580438166086789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_113
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 263
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f983f1bbc51bb0410800000000000000
+      internalID: 1444443117336869023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_114
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 225
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0b93815fba049d00800000000000000
+      internalID: 978418835868850959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_115
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 263
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c07f7315b7137430800000000000000
+      internalID: 3779390578777616583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_116
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 225
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 205fb6707aa186be0800000000000000
+      internalID: -1483906772532202238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_117
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 263
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c6d55d4ae9cc9620800000000000000
+      internalID: 2782320677965125314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_118
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 225
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efba70938ada11610800000000000000
+      internalID: 1590243081461410814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_119
+      rect:
+        serializedVersion: 2
+        x: 1970
+        y: 263
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19ccd59d2d4e93440800000000000000
+      internalID: 4916212062492675217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_120
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 165
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5daf1a65509a0cfa0800000000000000
+      internalID: -5782436081150330155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_121
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 196
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 073206c043aec2860800000000000000
+      internalID: 7506632188186600304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_122
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 165
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 571552e1d0f5c44c0800000000000000
+      internalID: -4301959034100690571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_123
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 196
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad86b3883bf6e5dd0800000000000000
+      internalID: -2495434326641252134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_124
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 165
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4901bbf6a47f7bc60800000000000000
+      internalID: 7834001975908438164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_125
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 196
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e27f077a33a0e7900800000000000000
+      internalID: 683995410375702318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_126
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 165
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f5546146730fb8b0800000000000000
+      internalID: -5134381243740957195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_127
+      rect:
+        serializedVersion: 2
+        x: 1903
+        y: 196
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 646145ee8ee067840800000000000000
+      internalID: 5221377211576358470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_128
+      rect:
+        serializedVersion: 2
+        x: 2473
+        y: 166
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b9f9879eb7ee9ad0800000000000000
+      internalID: -2693460721348773451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_129
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 0
+        width: 96
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62b4d1aa650eacdf0800000000000000
+      internalID: -159068173992375514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_130
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 0
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a75ed5fc17fdb0a40800000000000000
+      internalID: 5335603863453820282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_131
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 0
+        width: 96
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97c531b3f69531db0800000000000000
+      internalID: -4822412441716302727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_132
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 0
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 575ee2d9cdd4cbc30800000000000000
+      internalID: 4376458547822519669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_133
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 0
+        width: 96
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90bcbd05d9e520190800000000000000
+      internalID: -7997725958497121527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_134
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 0
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc667043bda0cf310800000000000000
+      internalID: 1440037917438731980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_135
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 0
+        width: 96
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7399be5b7a463f750800000000000000
+      internalID: 6337519772114852151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_136
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 0
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba85ed34339476b90800000000000000
+      internalID: -7248744590698719061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-icon-game-ui-design-element-png-image_21097184_137
+      rect:
+        serializedVersion: 2
+        x: 2410
+        y: 0
+        width: 90
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21d2670e693c1d310800000000000000
+      internalID: 1428137609631509778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      pngtree-start-button-icon-game-ui-design-element-png-image_21097184_0: -4939489473684998574
+      pngtree-start-button-icon-game-ui-design-element-png-image_21097184_1: 6616308893655379215
+      pngtree-start-button-icon-game-ui-design-element-png-image_21097184_10: -7521065451365217166
+      pngtree-start-button-icon-game-ui-design-element-png-image_21097184_100: -98020058226271488
+      pngtree-start-button-icon-game-ui-design-element-png-image_21097184_101: 2282225601953227867
+      pngtree-start-button-icon-game-ui-design-element-png-image_21097184_102: 1788192436231402454
+      pngtree-start-button-icon-game-ui-design-element-png-image_21097184_103: -5995854726909421224
+      pngtree-start-button-icon-game-ui-design-element-png-image_21097184_104: 3893822431215033928
+      pngtree-start-button-icon-game-ui-design-element-png-image_21097184_105: 4629510422320560805
+      pngtree-start-button-icon-game-ui-design-element-png-image_21097184_106: -2939875776574889677
+      pngtree-start-button-icon-game-ui-design-element-png-image_21097184_107: -7103508330080867222
+      pngtree-start-button-icon-game-ui-design-element-png-image_21097184_108: 6843670866520221625
+      pngtree-start-button-icon-game-ui-design-element-png-image_21097184_109: 6001221333465273949
+      pngtree-start-button-icon-game-ui-design-element-png-image_21097184_11: -7225064454419044963
+      pngtree-start-button-icon-game-ui-design-element-png-image_21097184_110: -8852385830678668087
+      pngtree-start-button-icon-game-ui-design-element-png-image_21097184_111: -5752069037046843165
+      pngtree-start-button-icon-game-ui-design-element-png-image_21097184_112: 1669580438166086789
+      pngtree-start-button-icon-game-ui-design-element-png-image_21097184_113: 1444443117336869023
+      pngtree-start-button-icon-game-ui-design-element-png-image_21097184_114: 978418835868850959
+      pngtree-start-button-icon-game-ui-design-element-png-image_21097184_115: 3779390578777616583
+      pngtree-start-button-icon-game-ui-design-element-png-image_21097184_116: -1483906772532202238
+      pngtree-start-button-icon-game-ui-design-element-png-image_21097184_117: 2782320677965125314
+      pngtree-start-button-icon-game-ui-design-element-png-image_21097184_118: 1590243081461410814
+      pngtree-start-button-icon-game-ui-design-element-png-image_21097184_119: 4916212062492675217
+      pngtree-start-button-icon-game-ui-design-element-png-image_21097184_12: -6106328941496832685
+      pngtree-start-button-icon-game-ui-design-element-png-image_21097184_120: -5782436081150330155
+      pngtree-start-button-icon-game-ui-design-element-png-image_21097184_121: 7506632188186600304
+      pngtree-start-button-icon-game-ui-design-element-png-image_21097184_122: -4301959034100690571
+      pngtree-start-button-icon-game-ui-design-element-png-image_21097184_123: -2495434326641252134
+      pngtree-start-button-icon-game-ui-design-element-png-image_21097184_124: 7834001975908438164
+      pngtree-start-button-icon-game-ui-design-element-png-image_21097184_125: 683995410375702318
+      pngtree-start-button-icon-game-ui-design-element-png-image_21097184_126: -5134381243740957195
+      pngtree-start-button-icon-game-ui-design-element-png-image_21097184_127: 5221377211576358470
+      pngtree-start-button-icon-game-ui-design-element-png-image_21097184_128: -2693460721348773451
+      pngtree-start-button-icon-game-ui-design-element-png-image_21097184_129: -159068173992375514
+      pngtree-start-button-icon-game-ui-design-element-png-image_21097184_13: -3122167677585086066
+      pngtree-start-button-icon-game-ui-design-element-png-image_21097184_130: 5335603863453820282
+      pngtree-start-button-icon-game-ui-design-element-png-image_21097184_131: -4822412441716302727
+      pngtree-start-button-icon-game-ui-design-element-png-image_21097184_132: 4376458547822519669
+      pngtree-start-button-icon-game-ui-design-element-png-image_21097184_133: -7997725958497121527
+      pngtree-start-button-icon-game-ui-design-element-png-image_21097184_134: 1440037917438731980
+      pngtree-start-button-icon-game-ui-design-element-png-image_21097184_135: 6337519772114852151
+      pngtree-start-button-icon-game-ui-design-element-png-image_21097184_136: -7248744590698719061
+      pngtree-start-button-icon-game-ui-design-element-png-image_21097184_137: 1428137609631509778
+      pngtree-start-button-icon-game-ui-design-element-png-image_21097184_14: 2132858567358932119
+      pngtree-start-button-icon-game-ui-design-element-png-image_21097184_15: -7246879578517858971
+      pngtree-start-button-icon-game-ui-design-element-png-image_21097184_16: -1850695861760279765
+      pngtree-start-button-icon-game-ui-design-element-png-image_21097184_17: 2242361536739345091
+      pngtree-start-button-icon-game-ui-design-element-png-image_21097184_18: -3642204237369507074
+      pngtree-start-button-icon-game-ui-design-element-png-image_21097184_19: -5030087184270000048
+      pngtree-start-button-icon-game-ui-design-element-png-image_21097184_2: -270234260382105521
+      pngtree-start-button-icon-game-ui-design-element-png-image_21097184_20: 95542704692031659
+      pngtree-start-button-icon-game-ui-design-element-png-image_21097184_21: -6707809298511903113
+      pngtree-start-button-icon-game-ui-design-element-png-image_21097184_22: 5995349018476042026
+      pngtree-start-button-icon-game-ui-design-element-png-image_21097184_23: 7803973876515248559
+      pngtree-start-button-icon-game-ui-design-element-png-image_21097184_24: -4951155261675788958
+      pngtree-start-button-icon-game-ui-design-element-png-image_21097184_25: 8961719364820058299
+      pngtree-start-button-icon-game-ui-design-element-png-image_21097184_26: -4947160968059327292
+      pngtree-start-button-icon-game-ui-design-element-png-image_21097184_27: -3827346386848570140
+      pngtree-start-button-icon-game-ui-design-element-png-image_21097184_28: -302452719335579928
+      pngtree-start-button-icon-game-ui-design-element-png-image_21097184_29: -5340185062317068493
+      pngtree-start-button-icon-game-ui-design-element-png-image_21097184_3: 613127001084982875
+      pngtree-start-button-icon-game-ui-design-element-png-image_21097184_30: 2708566681494947369
+      pngtree-start-button-icon-game-ui-design-element-png-image_21097184_31: -739700896321306243
+      pngtree-start-button-icon-game-ui-design-element-png-image_21097184_32: -1164919996317722116
+      pngtree-start-button-icon-game-ui-design-element-png-image_21097184_33: -7976644226310610302
+      pngtree-start-button-icon-game-ui-design-element-png-image_21097184_34: 3745508777871852517
+      pngtree-start-button-icon-game-ui-design-element-png-image_21097184_35: 1340380165535570799
+      pngtree-start-button-icon-game-ui-design-element-png-image_21097184_36: -3010275351571273133
+      pngtree-start-button-icon-game-ui-design-element-png-image_21097184_37: -4030056259731636010
+      pngtree-start-button-icon-game-ui-design-element-png-image_21097184_38: -5339666780511323360
+      pngtree-start-button-icon-game-ui-design-element-png-image_21097184_39: -5461771525635107323
+      pngtree-start-button-icon-game-ui-design-element-png-image_21097184_4: -2248716540915198025
+      pngtree-start-button-icon-game-ui-design-element-png-image_21097184_40: 5162447246597568139
+      pngtree-start-button-icon-game-ui-design-element-png-image_21097184_41: -2800878738437750294
+      pngtree-start-button-icon-game-ui-design-element-png-image_21097184_42: -3839367264125849374
+      pngtree-start-button-icon-game-ui-design-element-png-image_21097184_43: -4038084670689720176
+      pngtree-start-button-icon-game-ui-design-element-png-image_21097184_44: -7589591368918718828
+      pngtree-start-button-icon-game-ui-design-element-png-image_21097184_45: -9143366270621619793
+      pngtree-start-button-icon-game-ui-design-element-png-image_21097184_46: 5854235750963304180
+      pngtree-start-button-icon-game-ui-design-element-png-image_21097184_47: -812471867199339377
+      pngtree-start-button-icon-game-ui-design-element-png-image_21097184_48: -1233776972029115284
+      pngtree-start-button-icon-game-ui-design-element-png-image_21097184_49: 4919340926601961302
+      pngtree-start-button-icon-game-ui-design-element-png-image_21097184_5: 6870049108618478677
+      pngtree-start-button-icon-game-ui-design-element-png-image_21097184_50: 8974981386041437363
+      pngtree-start-button-icon-game-ui-design-element-png-image_21097184_51: 2039135495624338870
+      pngtree-start-button-icon-game-ui-design-element-png-image_21097184_52: 5056839850867149712
+      pngtree-start-button-icon-game-ui-design-element-png-image_21097184_53: 9002248295031840878
+      pngtree-start-button-icon-game-ui-design-element-png-image_21097184_54: -1662459892971386516
+      pngtree-start-button-icon-game-ui-design-element-png-image_21097184_55: 4012421681930115936
+      pngtree-start-button-icon-game-ui-design-element-png-image_21097184_56: 4768472695013166724
+      pngtree-start-button-icon-game-ui-design-element-png-image_21097184_57: 1410359873254441566
+      pngtree-start-button-icon-game-ui-design-element-png-image_21097184_58: -39548820854877778
+      pngtree-start-button-icon-game-ui-design-element-png-image_21097184_59: -8249555950137906650
+      pngtree-start-button-icon-game-ui-design-element-png-image_21097184_6: -2868348279777173490
+      pngtree-start-button-icon-game-ui-design-element-png-image_21097184_60: 9204565717832870030
+      pngtree-start-button-icon-game-ui-design-element-png-image_21097184_61: 8587634310895524697
+      pngtree-start-button-icon-game-ui-design-element-png-image_21097184_62: 5778849126992649692
+      pngtree-start-button-icon-game-ui-design-element-png-image_21097184_63: 4017866991191481105
+      pngtree-start-button-icon-game-ui-design-element-png-image_21097184_64: 152056287518614817
+      pngtree-start-button-icon-game-ui-design-element-png-image_21097184_65: 5711258684439588900
+      pngtree-start-button-icon-game-ui-design-element-png-image_21097184_66: -7383558345559603474
+      pngtree-start-button-icon-game-ui-design-element-png-image_21097184_67: -5655794632497254240
+      pngtree-start-button-icon-game-ui-design-element-png-image_21097184_68: 4099155890563213940
+      pngtree-start-button-icon-game-ui-design-element-png-image_21097184_69: -7822647531801136811
+      pngtree-start-button-icon-game-ui-design-element-png-image_21097184_7: -7735334578111412863
+      pngtree-start-button-icon-game-ui-design-element-png-image_21097184_70: 3419904398284944926
+      pngtree-start-button-icon-game-ui-design-element-png-image_21097184_71: 1083252393092965243
+      pngtree-start-button-icon-game-ui-design-element-png-image_21097184_72: 927020062089580136
+      pngtree-start-button-icon-game-ui-design-element-png-image_21097184_73: -7458144411264706227
+      pngtree-start-button-icon-game-ui-design-element-png-image_21097184_74: -6925590282176771826
+      pngtree-start-button-icon-game-ui-design-element-png-image_21097184_75: 7427874704454024782
+      pngtree-start-button-icon-game-ui-design-element-png-image_21097184_76: -199029064274762584
+      pngtree-start-button-icon-game-ui-design-element-png-image_21097184_77: 4975079512497925609
+      pngtree-start-button-icon-game-ui-design-element-png-image_21097184_78: 5911592672453088129
+      pngtree-start-button-icon-game-ui-design-element-png-image_21097184_79: -7230110532740982061
+      pngtree-start-button-icon-game-ui-design-element-png-image_21097184_8: 4071413263825749056
+      pngtree-start-button-icon-game-ui-design-element-png-image_21097184_80: 2994749135829881340
+      pngtree-start-button-icon-game-ui-design-element-png-image_21097184_81: 4507154817778657030
+      pngtree-start-button-icon-game-ui-design-element-png-image_21097184_82: -5709275694730555529
+      pngtree-start-button-icon-game-ui-design-element-png-image_21097184_83: -8469045956217020789
+      pngtree-start-button-icon-game-ui-design-element-png-image_21097184_84: -6789215328600312561
+      pngtree-start-button-icon-game-ui-design-element-png-image_21097184_85: 5064352881186066700
+      pngtree-start-button-icon-game-ui-design-element-png-image_21097184_86: -8227385735886551815
+      pngtree-start-button-icon-game-ui-design-element-png-image_21097184_87: -314661278208722851
+      pngtree-start-button-icon-game-ui-design-element-png-image_21097184_88: 5933287823350857753
+      pngtree-start-button-icon-game-ui-design-element-png-image_21097184_89: -8522150028046939570
+      pngtree-start-button-icon-game-ui-design-element-png-image_21097184_9: -6252648544386261338
+      pngtree-start-button-icon-game-ui-design-element-png-image_21097184_90: 7507918502947369585
+      pngtree-start-button-icon-game-ui-design-element-png-image_21097184_91: -7874552813793670329
+      pngtree-start-button-icon-game-ui-design-element-png-image_21097184_92: 1997835529701353920
+      pngtree-start-button-icon-game-ui-design-element-png-image_21097184_93: -2461469705571246032
+      pngtree-start-button-icon-game-ui-design-element-png-image_21097184_94: -2000587603331610723
+      pngtree-start-button-icon-game-ui-design-element-png-image_21097184_95: -4869955586207520919
+      pngtree-start-button-icon-game-ui-design-element-png-image_21097184_96: -5869309589636998813
+      pngtree-start-button-icon-game-ui-design-element-png-image_21097184_97: -7445036605755363896
+      pngtree-start-button-icon-game-ui-design-element-png-image_21097184_98: -2513768894819363538
+      pngtree-start-button-icon-game-ui-design-element-png-image_21097184_99: -617346978470698436
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
